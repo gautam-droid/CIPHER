@@ -2,7 +2,7 @@
 # Cipher - Encrypting and Decrypting Messages 🙈
 
 This program allows users to encrypt and decrypt messages using a Caesar Cipher algorithm.
-
+NOTE:The program works only with letters,no symbols and digits .
 ![imagerobo.png](https://i.postimg.cc/kGbCST0G/imagerobo.png)
 ##  Screenshots 📸
 #### ENCRYPTING 🔒
